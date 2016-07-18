@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="exams">
+        <item>JEE MAINS</item>
+        <item>JEE ADVANCE</item>
+        <item>UPTU</item>
+        <item>VIT</item>
+        <item>BITS</item>
+        <item>IT</item>
+        <item>PTU</item>
+        <item>MANIPAL</item>
+        <item>SRM</item>
+    </string-array>
+
+</resources>
